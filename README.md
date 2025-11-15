@@ -1,16 +1,20 @@
-## Hi there 👋
+### Opa, eu sou o Lucas David Sandes 👋  
+## Desenvolvedor Mobile 👨🏽‍💻  
 
-<!--
-**lucasdavidsandes/lucasdavidsandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 28 anos e aqui é o meu espaço para experimentos, estudos e projetos pessoais.  
+Gosto de aprender coisas novas, testar ideias e evoluir um pouco a cada dia.  
 
-Here are some ideas to get you started:
+- 🌱 Atualmente focado em .NET MAUI, Xamarin e Flutter.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucasdavidsandes/" target="_blank">
+    <img 
+      alt="LinkedIn - Lucas David Sandes"
+      title="Conecte-se comigo no LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
+
+
